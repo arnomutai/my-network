@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91621080817",
+    "project_id": "mynet-8dcf6",
+    "storage_bucket": "mynet-8dcf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91621080817:android:0cfd67e110e0598df0b350",
+        "android_client_info": {
+          "package_name": "com.arnomutai.mynet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91621080817-3nel2s1h0ijuefa64m912kkgptfocutr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QtBnQCXHLZ1vUCHaAnwPeAJZKspsHgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91621080817-3nel2s1h0ijuefa64m912kkgptfocutr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
