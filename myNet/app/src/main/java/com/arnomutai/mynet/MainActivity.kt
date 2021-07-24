@@ -12,6 +12,8 @@ import androidx.navigation.ui.setupWithNavController
 import com.arnomutai.mynet.databinding.ActivityMainBinding
 import com.arnomutai.mynet.fragments.*
 
+/*hey you am awesome*/
+
 class MainActivity : AppCompatActivity() {
 
     internal var selectedFragment: Fragment? = null
